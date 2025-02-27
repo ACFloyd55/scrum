@@ -1,5 +1,2 @@
 # scrum
-demo for project management
-new line wow
-This is for our 2nd Git Assignment
-I like SCRUMING
+Personal Finance App for Project Management 101-SD
