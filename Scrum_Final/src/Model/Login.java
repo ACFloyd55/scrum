@@ -1,4 +1,4 @@
-package Controller.Scrum_Final.src.Model;
+package Model;
 
 public class Login {
 }
